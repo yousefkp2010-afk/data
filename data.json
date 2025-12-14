@@ -1,5 +1,6 @@
 {
-    "name": "Sample Project",
-    "version": "1.0.0",
-    "name2" : "this is really cool"
+  "name": "Sample Project",
+  "version": "1.0.0",
+  "name2": "this is really cool",
+  "thats great" : "yeah i know"
 }
