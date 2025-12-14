@@ -3,10 +3,16 @@
     "storeName": "Step of Fashion",
     "storeNameAr": "خطوة للموضة",
     "primaryColor": "#F8BBD0",
-    "secondaryColor": "#EC407A",
-    "description": "ألبسة نسائية أنيقة | متجرك الأول للجودة والأناقة"
+    "secondaryColor": "#EC407A"
   },
-  "categories": ["فساتين", "بلوزات", "بناطيل", "أزياء خارجية", "تنانير", "ملابس داخلية"],
+  "categories": [
+    "فساتين",
+    "بلوزات",
+    "بناطيل",
+    "أزياء خارجية",
+    "تنانير",
+    "ملابس داخلية"
+  ],
   "products": [
     {
       "id": 1,
@@ -17,8 +23,15 @@
       "originalPrice": 199,
       "category": "فساتين",
       "trending": true,
-      "sizes": ["S", "M", "L"],
-      "colors": ["وردي", "أبيض"]
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "وردي",
+        "أبيض"
+      ]
     },
     {
       "id": 2,
@@ -29,8 +42,16 @@
       "originalPrice": 120,
       "category": "بلوزات",
       "trending": true,
-      "sizes": ["XS", "S", "M", "L"],
-      "colors": ["أبيض", "أسود"]
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "أبيض",
+        "أسود"
+      ]
     },
     {
       "id": 3,
@@ -41,8 +62,16 @@
       "originalPrice": 159,
       "category": "بناطيل",
       "trending": false,
-      "sizes": ["26", "28", "30", "32"],
-      "colors": ["أزرق", "أسود"]
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "colors": [
+        "أزرق",
+        "أسود"
+      ]
     },
     {
       "id": 4,
@@ -53,8 +82,16 @@
       "originalPrice": 299,
       "category": "أزياء خارجية",
       "trending": true,
-      "sizes": ["S", "M", "L", "XL"],
-      "colors": ["أسود", "بني"]
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "أسود",
+        "بني"
+      ]
     },
     {
       "id": 5,
@@ -65,8 +102,14 @@
       "originalPrice": 99,
       "category": "تنانير",
       "trending": false,
-      "sizes": ["S", "M", "L"],
-      "colors": ["متعدد الألوان"]
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "متعدد الألوان"
+      ]
     },
     {
       "id": 6,
@@ -77,8 +120,31 @@
       "originalPrice": 199,
       "category": "ملابس داخلية",
       "trending": true,
-      "sizes": ["وحدة", "S", "M"],
-      "colors": ["أحمر", "أسود"]
+      "sizes": [
+        "وحدة",
+        "S",
+        "M"
+      ],
+      "colors": [
+        "أحمر",
+        "أسود"
+      ]
+    },
+    {
+      "id": 1765737543648,
+      "name": "أول اضافة من قائمة التحكم",
+      "price": 1000000,
+      "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "description": "اذا اشتغلت بكون ممتاااز!",
+      "category": "بلوزات",
+      "trending": false,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
     }
   ]
 }
