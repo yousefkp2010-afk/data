@@ -17,20 +17,17 @@
     {
       "id": 1,
       "name": "فستان صيفي وردي",
+      "price": 149,
       "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
       "description": "فستان قصير أنيق بلون وردي فاتح، مناسب للخروجات اليومية والمناسبات الخاصة.",
-      "price": 149,
-      "originalPrice": 199,
       "category": "فساتين",
       "trending": true,
       "sizes": [
+        "XS",
         "S",
         "M",
-        "L"
-      ],
-      "colors": [
-        "وردي",
-        "أبيض"
+        "L",
+        "XL"
       ]
     },
     {
