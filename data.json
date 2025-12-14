@@ -1,3 +1,29 @@
 {
-
+  "siteInfo": {
+    "storeName": "Step of Fashion",
+    "storeNameAr": "خطوة للموضة"
+  },
+  "categories": ["فساتين", "بلوزات"],
+  "products": [
+    {
+      "id": 1,
+      "name": "فستان صيفي وردي",
+      "image": "https://i.imgur.com/XXXXXXX.jpg",
+      "description": "فستان قصير أنيق بلون وردي فاتح، مناسب للخروجات اليومية.",
+      "price": 149,
+      "category": "فساتين",
+      "trending": true,
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 2,
+      "name": "بلوزة قطنية بيضاء",
+      "image": "https://i.imgur.com/YYYYYYY.jpg",
+      "description": "بلوزة نسائية مصنوعة من القطن الناعم، مريحة للارتداء اليومي.",
+      "price": 79,
+      "category": "بلوزات",
+      "trending": false,
+      "sizes": ["M", "L", "XL"]
+    }
+  ]
 }
