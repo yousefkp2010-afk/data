@@ -129,22 +129,6 @@
         "أحمر",
         "أسود"
       ]
-    },
-    {
-      "id": 1765737543648,
-      "name": "أول اضافة من قائمة التحكم",
-      "price": 1000000,
-      "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "description": "اذا اشتغلت بكون ممتاااز!",
-      "category": "بلوزات",
-      "trending": false,
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ]
     }
   ]
 }
