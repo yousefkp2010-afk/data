@@ -1,29 +1,84 @@
 {
   "siteInfo": {
     "storeName": "Step of Fashion",
-    "storeNameAr": "خطوة للموضة"
+    "storeNameAr": "خطوة للموضة",
+    "primaryColor": "#F8BBD0",
+    "secondaryColor": "#EC407A",
+    "description": "ألبسة نسائية أنيقة | متجرك الأول للجودة والأناقة"
   },
-  "categories": ["فساتين", "بلوزات"],
+  "categories": ["فساتين", "بلوزات", "بناطيل", "أزياء خارجية", "تنانير", "ملابس داخلية"],
   "products": [
     {
       "id": 1,
       "name": "فستان صيفي وردي",
-      "image": "https://i.imgur.com/XXXXXXX.jpg",
-      "description": "فستان قصير أنيق بلون وردي فاتح، مناسب للخروجات اليومية.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "description": "فستان قصير أنيق بلون وردي فاتح، مناسب للخروجات اليومية والمناسبات الخاصة.",
       "price": 149,
+      "originalPrice": 199,
       "category": "فساتين",
       "trending": true,
-      "sizes": ["S", "M", "L"]
+      "sizes": ["S", "M", "L"],
+      "colors": ["وردي", "أبيض"]
     },
     {
       "id": 2,
-      "name": "بلوزة قطنية بيضاء",
-      "image": "https://i.imgur.com/YYYYYYY.jpg",
-      "description": "بلوزة نسائية مصنوعة من القطن الناعم، مريحة للارتداء اليومي.",
-      "price": 79,
+      "name": "بلوزة حريرية بيضاء",
+      "image": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "description": "بلوزة حريرية عالية الجودة، مريحة وأنيقة للعمل والمناسبات الرسمية.",
+      "price": 89,
+      "originalPrice": 120,
       "category": "بلوزات",
+      "trending": true,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["أبيض", "أسود"]
+    },
+    {
+      "id": 3,
+      "name": "بنطال جينز ضيق",
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "description": "بنطال جينز كلاسيكي ضيق، مريح ويوافق جميع الإطلالات اليومية.",
+      "price": 129,
+      "originalPrice": 159,
+      "category": "بناطيل",
       "trending": false,
-      "sizes": ["M", "L", "XL"]
+      "sizes": ["26", "28", "30", "32"],
+      "colors": ["أزرق", "أسود"]
+    },
+    {
+      "id": 4,
+      "name": "جاكيت جلدي أنيق",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "description": "جاكيت جلدي عالي الجودة، يوفر الدفء والأناقة في نفس الوقت.",
+      "price": 249,
+      "originalPrice": 299,
+      "category": "أزياء خارجية",
+      "trending": true,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["أسود", "بني"]
+    },
+    {
+      "id": 5,
+      "name": "تنورة مطبوعة",
+      "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "description": "تنورة صيفية مطبوعة برسومات أنيقة، مثالية للخروجات العصرية.",
+      "price": 79,
+      "originalPrice": 99,
+      "category": "تنانير",
+      "trending": false,
+      "sizes": ["S", "M", "L"],
+      "colors": ["متعدد الألوان"]
+    },
+    {
+      "id": 6,
+      "name": "بدلة نوم حريرية",
+      "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "description": "بدلة نوم حريرية فاخرة، توفر الراحة والرفاهية في وقت النوم.",
+      "price": 159,
+      "originalPrice": 199,
+      "category": "ملابس داخلية",
+      "trending": true,
+      "sizes": ["وحدة", "S", "M"],
+      "colors": ["أحمر", "أسود"]
     }
   ]
 }
