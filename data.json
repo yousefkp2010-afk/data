@@ -15,26 +15,6 @@
   ],
   "products": [
     {
-      "id": 4,
-      "name": "جاكيت جلدي أنيق",
-      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "description": "جاكيت جلدي عالي الجودة، يوفر الدفء والأناقة في نفس الوقت.",
-      "price": 249,
-      "originalPrice": 299,
-      "category": "أزياء خارجية",
-      "trending": true,
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "أسود",
-        "بني"
-      ]
-    },
-    {
       "id": 5,
       "name": "تنورة مطبوعة",
       "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
