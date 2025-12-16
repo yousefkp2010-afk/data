@@ -15,25 +15,6 @@
   ],
   "products": [
     {
-      "id": 6,
-      "name": "بدلة نوم حريرية",
-      "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "description": "بدلة نوم حريرية فاخرة، توفر الراحة والرفاهية في وقت النوم.",
-      "price": 159,
-      "originalPrice": 199,
-      "category": "ملابس داخلية",
-      "trending": true,
-      "sizes": [
-        "وحدة",
-        "S",
-        "M"
-      ],
-      "colors": [
-        "أحمر",
-        "أسود"
-      ]
-    },
-    {
       "id": 1765903658327,
       "name": "meaw",
       "price": 100,
