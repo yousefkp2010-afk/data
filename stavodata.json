@@ -1,0 +1,123 @@
+{
+  "siteInfo": {
+    "storeName": "Stavo",
+    "storeNameAr": "ستافو",
+    "primaryColor": "#8D6E63",
+    "secondaryColor": "#5D4037"
+  },
+  "categories": [
+    "بدلات",
+    "قمصان",
+    "بناطيل",
+    "جواكت",
+    "تيشرتات",
+    "ملابس داخلية",
+    "بيجاما",
+    "فئة راقية"
+  ],
+  "products": [
+    {
+      "id": 1766073450965,
+      "name": "بدلة كلاسيكية",
+      "price": 125000,
+      "image": "https://images.unsplash.com/photo-1594938355082-7c3c8e6b47c8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "بدلة رجالية كلاسيكية من قماش صوف عالي الجودة، مثالية للمناسبات الرسمية والعمل",
+      "category": "بدلات",
+      "trending": false,
+      "sizes": ["48", "50", "52", "54"],
+      "isNew": true
+    },
+    {
+      "id": 1766073777254,
+      "name": "بيجاما قطني ثلاث قطع",
+      "price": 45000,
+      "image": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "بيجاما ثلاث قطع قطنية مريحة للغاية، مثالية للنوم والراحة في المنزل",
+      "category": "بيجاما",
+      "trending": true,
+      "sizes": ["M", "L", "XL"]
+    },
+    {
+      "id": 1766073985472,
+      "name": "بيجاما قطن فاخرة",
+      "price": 75000,
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "بيجاما قطنية فاخرة ثلاث قطع، تصميم أنيق وجودة عالية للراحة المطلقة",
+      "category": "بيجاما",
+      "trending": false,
+      "sizes": ["M", "L", "XL", "XXL"],
+      "isNew": true
+    },
+    {
+      "id": 1766074271919,
+      "name": "بدلة رسمية فاخرة",
+      "price": 185000,
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "بدلة رسمية فاخرة من قماش صوف إيطالي، تصميم عصري وأنيق للمناسبات المهمة",
+      "category": "بدلات",
+      "trending": true,
+      "sizes": ["50", "52", "54"]
+    },
+    {
+      "id": 1766074601480,
+      "name": "بدلة أعمال كلاسيكية",
+      "price": 165000,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "بدلة أعمال كلاسيكية من قماش ممتاز، تصميم محترف للاجتماعات والعمل",
+      "category": "بدلات",
+      "trending": true,
+      "sizes": ["48", "50", "52"]
+    },
+    {
+      "id": 1766074938135,
+      "name": "هودي رياضي مريح",
+      "price": 55000,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "هودي رياضي مريح ومناسب للاستخدام اليومي، مصنوع من قماش قطني عالي الجودة",
+      "category": "تيشرتات",
+      "trending": true,
+      "sizes": ["M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 1766074938136,
+      "name": "قميص رسمي بولو",
+      "price": 35000,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "قميص بولو رسمي أنيق، مثالي للارتداء اليومي وللمناسبات شبه الرسمية",
+      "category": "قمصان",
+      "trending": false,
+      "sizes": ["M", "L", "XL"],
+      "isNew": true
+    },
+    {
+      "id": 1766074938137,
+      "name": "جاكيت جلد طبيعي",
+      "price": 225000,
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "جاكيت جلد طبيعي فاخر، تصميم عصري يناسب جميع الفصول",
+      "category": "جواكت",
+      "trending": true,
+      "sizes": ["M", "L", "XL"]
+    },
+    {
+      "id": 1766074938138,
+      "name": "بنطال جينز كلاسيكي",
+      "price": 65000,
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "بنطال جينز كلاسيكي عالي الجودة، يناسب جميع المناسبات",
+      "category": "بناطيل",
+      "trending": false,
+      "sizes": ["30", "32", "34", "36"]
+    },
+    {
+      "id": 1766074938139,
+      "name": "بدلة سهرة سوداء",
+      "price": 295000,
+      "image": "https://images.unsplash.com/photo-1593032465172-3d6d6f1b2c7f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "description": "بدلة سهرة سوداء فاخرة من فئة راقية، تصميم أنيق للمناسبات الخاصة",
+      "category": "فئة راقية",
+      "trending": true,
+      "sizes": ["48", "50", "52"]
+    }
+  ]
+}
