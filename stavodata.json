@@ -17,22 +17,6 @@
   ],
   "products": [
     {
-      "id": 1766073450965,
-      "name": "بدلة كلاسيكية",
-      "price": 125000,
-      "image": "https://images.unsplash.com/photo-1594938355082-7c3c8e6b47c8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
-      "description": "بدلة رجالية كلاسيكية من قماش صوف عالي الجودة، مثالية للمناسبات الرسمية والعمل",
-      "category": "بدلات",
-      "trending": false,
-      "sizes": [
-        "48",
-        "50",
-        "52",
-        "54"
-      ],
-      "isNew": true
-    },
-    {
       "id": 1766073777254,
       "name": "بيجاما قطني ثلاث قطع",
       "price": 45000,
