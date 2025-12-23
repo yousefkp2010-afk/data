@@ -133,20 +133,6 @@
         "34",
         "36"
       ]
-    },
-    {
-      "id": 1766074938139,
-      "name": "بدلة سهرة سوداء",
-      "price": 295000,
-      "image": "https://images.unsplash.com/photo-1593032465172-3d6d6f1b2c7f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
-      "description": "بدلة سهرة سوداء فاخرة من فئة راقية، تصميم أنيق للمناسبات الخاصة",
-      "category": "فئة راقية",
-      "trending": true,
-      "sizes": [
-        "48",
-        "50",
-        "52"
-      ]
     }
   ]
 }
