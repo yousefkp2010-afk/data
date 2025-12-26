@@ -18,20 +18,6 @@
   ],
   "products": [
     {
-      "id": 1766074938137,
-      "name": "جاكيت جلد طبيعي",
-      "price": 225000,
-      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
-      "description": "جاكيت جلد طبيعي فاخر، تصميم عصري يناسب جميع الفصول",
-      "category": "جواكت",
-      "trending": true,
-      "sizes": [
-        "M",
-        "L",
-        "XL"
-      ]
-    },
-    {
       "id": 1766074938138,
       "name": "بنطال جينز كلاسيكي",
       "price": 65000,
