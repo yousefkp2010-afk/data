@@ -168,6 +168,22 @@
         "50",
         "52"
       ]
+    },
+    {
+      "id": 1766740685339,
+      "name": "كنزة قطن",
+      "price": 15,
+      "image": "https://imghost.online/ib/zmfepodu2JRzdT4_1766740593.jpg",
+      "description": "الكنزات التريند متوفرة عنا وبست ألوان كمان!",
+      "category": "كنزات",
+      "trending": true,
+      "isNew": true,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
     }
   ]
 }
