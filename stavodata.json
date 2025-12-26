@@ -201,6 +201,23 @@
         "XL",
         "XXL"
       ]
+    },
+    {
+      "id": 1766741053035,
+      "name": "بنطال قماش",
+      "price": 15,
+      "image": "https://imghost.online/ib/m4aAZf1x9JqlE4Y_1766740978.jpg",
+      "description": "بناطيل قماش رسمية فاخرة, البسها والفت الأنظار بأي مناسبة!",
+      "category": "بناطيل",
+      "trending": true,
+      "isNew": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
     }
   ]
 }
