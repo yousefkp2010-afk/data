@@ -184,6 +184,23 @@
         "XL",
         "XXL"
       ]
+    },
+    {
+      "id": 1766740907172,
+      "name": "كنزة صوف",
+      "price": 18,
+      "image": "https://imghost.online/ib/166PJ1W51wpDj2p_1766740823.jpg",
+      "description": "كنزة صوف تقيل من عند التقيل",
+      "category": "كنزات",
+      "trending": true,
+      "isNew": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
     }
   ]
 }
