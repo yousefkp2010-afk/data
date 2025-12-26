@@ -151,6 +151,23 @@
         "50",
         "52"
       ]
+    },
+    {
+      "id": 1766740485211,
+      "name": "كنزة شتوية",
+      "price": 20,
+      "image": "https://imghost.online/ib/FYpiR02ghqaBKP3_1766740412.jpg",
+      "description": "كنزة جودتها خيال!. لازم تكون عند كل شب",
+      "category": "كنزات",
+      "trending": false,
+      "isNew": true,
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52"
+      ]
     }
   ]
 }
