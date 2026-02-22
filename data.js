@@ -771,7 +771,7 @@ var appData = [
         "asr": "",
         "maghrib": "",
         "isha": "",
-        "pages": 0
+        "pages": 30
       },
       "5": {
         "fajr": "",
