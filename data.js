@@ -31,7 +31,7 @@ var appData = [
         "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
-        "maghrib": "",
+        "maghrib": "جماعة",
         "isha": "جماعة",
         "pages": 0
       },
