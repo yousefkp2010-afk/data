@@ -2491,7 +2491,7 @@ var appData = [
         "fajr": "في وقته",
         "dhuhr": "في وقته",
         "asr": "في وقته",
-        "maghrib": "",
+        "maghrib": "في وقته",
         "isha": "",
         "pages": 0
       },
