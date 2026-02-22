@@ -32,7 +32,7 @@ var appData = [
         "dhuhr": "",
         "asr": "في وقته",
         "maghrib": "في وقته",
-        "isha": "",
+        "isha": "جماعة",
         "pages": 10
       },
       "5": {
