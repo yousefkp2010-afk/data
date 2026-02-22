@@ -2490,7 +2490,7 @@ var appData = [
       "4": {
         "fajr": "في وقته",
         "dhuhr": "في وقته",
-        "asr": "",
+        "asr": "في وقته",
         "maghrib": "",
         "isha": "",
         "pages": 0
