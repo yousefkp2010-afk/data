@@ -1507,7 +1507,7 @@ var appData = [
         "fajr": "لم أصلها",
         "dhuhr": "في وقته",
         "asr": "في وقته",
-        "maghrib": "",
+        "maghrib": "في وقته",
         "isha": "",
         "pages": 0
       },
