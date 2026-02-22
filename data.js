@@ -771,7 +771,7 @@ var appData = [
         "asr": "جماعة",
         "maghrib": "جماعة",
         "isha": "لم أصلها",
-        "pages": 0
+        "pages": 20
       },
       "5": {
         "fajr": "",
