@@ -2742,7 +2742,7 @@ var appData = [
         "pages": 0
       },
       "5": {
-        "fajr": "",
+        "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
