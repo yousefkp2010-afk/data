@@ -40,7 +40,7 @@ var appData = [
         "dhuhr": "لم أصلها",
         "asr": "في وقته",
         "maghrib": "في وقته",
-        "isha": "",
+        "isha": "جماعة",
         "pages": 0
       },
       "6": {
