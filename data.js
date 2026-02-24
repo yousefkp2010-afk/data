@@ -44,7 +44,7 @@ var appData = [
         "pages": 0
       },
       "6": {
-        "fajr": "",
+        "fajr": "قضاء",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
