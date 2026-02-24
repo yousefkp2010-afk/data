@@ -2017,7 +2017,7 @@ var appData = [
         "asr": "في وقته",
         "maghrib": "",
         "isha": "",
-        "pages": 60
+        "pages": 0
       },
       "7": {
         "fajr": "",
