@@ -2012,7 +2012,7 @@ var appData = [
         "pages": 0
       },
       "6": {
-        "fajr": "",
+        "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
