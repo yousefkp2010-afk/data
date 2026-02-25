@@ -2020,7 +2020,7 @@ var appData = [
         "pages": 0
       },
       "7": {
-        "fajr": "",
+        "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
