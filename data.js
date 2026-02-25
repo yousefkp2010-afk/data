@@ -2022,7 +2022,7 @@ var appData = [
       "7": {
         "fajr": "في وقته",
         "dhuhr": "في وقته",
-        "asr": "",
+        "asr": "في وقته",
         "maghrib": "",
         "isha": "",
         "pages": 0
