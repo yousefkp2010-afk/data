@@ -53,7 +53,7 @@ var appData = [
       },
       "7": {
         "fajr": "",
-        "dhuhr": "",
+        "dhuhr": "في وقته",
         "asr": "",
         "maghrib": "",
         "isha": "",
