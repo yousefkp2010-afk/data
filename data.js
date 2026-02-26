@@ -2029,8 +2029,8 @@ var appData = [
       },
       "8": {
         "fajr": "في وقته",
-        "dhuhr": "",
-        "asr": "",
+        "dhuhr": "في وقته",
+        "asr": "في وقته",
         "maghrib": "",
         "isha": "",
         "pages": 0
