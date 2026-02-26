@@ -2033,7 +2033,7 @@ var appData = [
         "asr": "في وقته",
         "maghrib": "في وقته",
         "isha": "في وقته",
-        "pages": 10
+        "pages": 0
       },
       "9": {
         "fajr": "",
