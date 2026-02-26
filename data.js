@@ -1782,7 +1782,7 @@ var appData = [
         "pages": 0
       },
       "8": {
-        "fajr": "",
+        "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
