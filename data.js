@@ -244,7 +244,7 @@ var appData = [
         "pages": 0
       }
     },
-    "tasbeeh": 1
+    "tasbeeh": 2
   },
   {
     "name": "ملهم كبور",
