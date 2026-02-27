@@ -2037,7 +2037,7 @@ var appData = [
         "pages": 124
       },
       "9": {
-        "fajr": "",
+        "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
