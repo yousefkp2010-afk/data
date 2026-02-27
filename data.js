@@ -243,7 +243,8 @@ var appData = [
         "isha": "",
         "pages": 0
       }
-    }
+    },
+    "tasbeeh": 1
   },
   {
     "name": "ملهم كبور",
