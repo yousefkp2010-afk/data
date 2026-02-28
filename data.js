@@ -1800,7 +1800,7 @@ var appData = [
       },
       "10": {
         "fajr": "في وقته",
-        "dhuhr": "",
+        "dhuhr": "في وقته",
         "asr": "",
         "maghrib": "",
         "isha": "",
