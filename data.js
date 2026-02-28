@@ -1799,7 +1799,7 @@ var appData = [
         "pages": 0
       },
       "10": {
-        "fajr": "",
+        "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
