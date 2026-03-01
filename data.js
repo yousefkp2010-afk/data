@@ -100,7 +100,7 @@ var appData = [
         "pages": 0
       },
       "13": {
-        "fajr": "",
+        "fajr": "في وقته",
         "dhuhr": "",
         "asr": "",
         "maghrib": "",
