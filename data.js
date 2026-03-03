@@ -117,8 +117,8 @@ var appData = [
       },
       "15": {
         "fajr": "قضاء",
-        "dhuhr": "",
-        "asr": "",
+        "dhuhr": "في وقته",
+        "asr": "في وقته",
         "maghrib": "",
         "isha": "",
         "pages": 0
